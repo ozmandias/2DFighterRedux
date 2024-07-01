@@ -1,4 +1,4 @@
-# 2D Fighter Redux
+# 2D Karate Fighter Redux
 
 ## Description
 
